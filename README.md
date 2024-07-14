@@ -2,8 +2,8 @@
 
 ### Education
 **BS Seoul National University, Electrical and Computer Engineering**
-*Seoul, South Korea*
-*Expected Graduation: Feb 2026*
+<span style="float: right;">*Seoul, South Korea*</span>
+- Expected Graduation: Feb 2026
 - GPA: 3.77/4.3
 
 ### Experience
